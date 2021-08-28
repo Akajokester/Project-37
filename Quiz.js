@@ -58,12 +58,6 @@ class Quiz {
          }
 
 
-         if (correctAns = allContestants[plr].answer){
-           fill("Green")
-         }
-         else{
-           fill("red");
-         }
 
         display_Answers+=30;
         textSize(20);
